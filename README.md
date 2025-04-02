@@ -38,7 +38,7 @@ Prerequisites
 
 Installation Steps
 1. Clone the repository:  
-   git clone https://github.com/Jason3105/CollegePortal.git  
+   git clone https://github.com/JadenBritto/CollegePortal.git  
    cd CollegePortal  
 
 2. Backend Setup:  
